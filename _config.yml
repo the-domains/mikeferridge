@@ -1,0 +1,28 @@
+name: mikeferridge
+favicon: null
+layout_spectrum: 0.27180291060358286
+typography_spectrum: 0.5185270020738244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06555530894547701
+  lightness: 0.040859848726540804
+  saturation: 0.5034838274586946
+  rhythmicContrast: 0.7376854086760432
+purpose: []
